@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">UserValidationAndroidApp</string>
+    <string name="name_textview">Name:</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="age_textview">Age:</string>
+    <string name="age_hint">Enter your age</string>
+    <string name="sales_textview">Sales:</string>
+    <string name="sales_hint">Enter the sales amount</string>
+    <string name="validate_button">Validate</string>
+
 </resources>
